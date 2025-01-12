@@ -1,6 +1,6 @@
 # Value Glance
 
-Value Glance frontend web application built with React, Axios, and TailwindCSS. It provides features sort and filter various financial data
+Value Glance frontend web application built with React, Axios, and TailwindCSS. It provides features sort and filter various financial data. The project is hosted at https://value-glance-full-stack-task.netlify.app/
 
 ## Project Setup
 
